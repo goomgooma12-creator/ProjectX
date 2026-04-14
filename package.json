@@ -1,0 +1,13 @@
+{
+  "name": "bajaj-life-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Mike Ronald Lakra — Bajaj Life AI Chatbot powered by Gemini",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
